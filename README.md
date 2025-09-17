@@ -1,50 +1,27 @@
-# Welcome to your Expo app 👋
+# My First React Native App - CPAN 213
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Description
+This is my first React Native application created for CPAN 213 course.
 
-## Get started
+## Student Information
+-- Name: [Ian]
+-- Student ID: [n01702065]
+-- Course: CPAN 213 - Cross-Platform Mobile Application Development
+-- Date: September 2, 2025
 
-1. Install dependencies
+## Getting Started
+1. Clone this repository
+2. RunRun `npm install`
+3. RunRun `npx react-native run-android` or `npx react-native run-android`
+   
+## Features Implemented
+-- Custom welcome screen
+-- Personal information display
+-- Course goals section
+-- Custom styling with StyleSheet
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Development Environment
+-- Node.js: [v22.19.0]
+-- React Native: [11.0.0]
+-- Android Studio: [2025.1.3.7]
+-- VS Code: [1.104]
